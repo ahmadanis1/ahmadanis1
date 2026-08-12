@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi there, I'm Ahmad Anis</h3>
+<h3 align="center">Hello, I'm Ahmad Anis</h3>
 
 <p align="center">
   <a href="https://twitter.com/Rex11344">Twitter</a> •
